@@ -37,8 +37,11 @@ Poll-Results-Visualizer/
 ├── requirements.txt    # List of required Python libraries
 └── README.md           # Professional project documentation
 
-## How to run project 
-git clone <https://github.com/AseemTapase123/Poll-Results-Visualizer>
+## 📈 How to Run this Project
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/AseemTapase123/Poll-Results-Visualizer.git](https://github.com/AseemTapase123/Poll-Results-Visualizer.git)
 
 cd Poll-Results-Visualizer
 .\venv\Scripts\activate
