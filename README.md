@@ -36,3 +36,13 @@ Poll-Results-Visualizer/
 ├── app.py              # Main Entry Point: Dashboard UI & Frontend
 ├── requirements.txt    # List of required Python libraries
 └── README.md           # Professional project documentation
+
+## How to run project 
+git clone <https://github.com/AseemTapase123/Poll-Results-Visualizer>
+
+cd Poll-Results-Visualizer
+.\venv\Scripts\activate
+
+pip install -r requirements.txt
+
+streamlit run app.py
