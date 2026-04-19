@@ -1,0 +1,1001 @@
+Respondent_ID,Region,Vote,Age_Group,Satisfaction
+1,LATAM,Undecided,35-50,3
+2,Middle East,Product B (Budget),18-24,4
+3,Asia-Pacific,Product B (Budget),18-24,4
+4,Middle East,Undecided,35-50,1
+5,Middle East,Product C (Eco),50+,2
+6,Europe,Product A (Premium),35-50,5
+7,Asia-Pacific,Product B (Budget),50+,5
+8,Asia-Pacific,Product B (Budget),18-24,1
+9,Asia-Pacific,Product B (Budget),18-24,2
+10,Middle East,Product C (Eco),50+,3
+11,LATAM,Undecided,18-24,1
+12,Asia-Pacific,Undecided,50+,1
+13,Middle East,Product B (Budget),25-34,5
+14,Europe,Product A (Premium),35-50,1
+15,LATAM,Undecided,25-34,1
+16,Europe,Product C (Eco),50+,1
+17,LATAM,Product A (Premium),35-50,5
+18,Middle East,Undecided,50+,3
+19,North America,Product C (Eco),35-50,3
+20,LATAM,Product B (Budget),35-50,1
+21,Europe,Product B (Budget),35-50,5
+22,Middle East,Product B (Budget),35-50,3
+23,LATAM,Product A (Premium),50+,3
+24,North America,Product B (Budget),35-50,3
+25,North America,Product C (Eco),35-50,5
+26,Asia-Pacific,Product A (Premium),25-34,5
+27,Asia-Pacific,Product B (Budget),18-24,1
+28,Europe,Product B (Budget),18-24,4
+29,LATAM,Product B (Budget),25-34,3
+30,LATAM,Undecided,25-34,4
+31,Asia-Pacific,Product B (Budget),50+,5
+32,LATAM,Product B (Budget),50+,5
+33,LATAM,Product C (Eco),50+,5
+34,North America,Product B (Budget),25-34,4
+35,Asia-Pacific,Product A (Premium),25-34,5
+36,Middle East,Product B (Budget),35-50,1
+37,Asia-Pacific,Product A (Premium),50+,5
+38,Middle East,Product A (Premium),50+,2
+39,North America,Product B (Budget),50+,4
+40,Europe,Product B (Budget),18-24,2
+41,LATAM,Undecided,35-50,5
+42,North America,Product B (Budget),50+,1
+43,LATAM,Product B (Budget),50+,3
+44,Europe,Product B (Budget),50+,5
+45,Europe,Product A (Premium),18-24,1
+46,North America,Product B (Budget),18-24,4
+47,Europe,Product A (Premium),25-34,2
+48,Middle East,Undecided,35-50,2
+49,Europe,Product A (Premium),25-34,2
+50,LATAM,Product B (Budget),35-50,4
+51,LATAM,Product A (Premium),18-24,1
+52,LATAM,Undecided,50+,4
+53,LATAM,Product B (Budget),25-34,2
+54,Middle East,Product B (Budget),50+,5
+55,Asia-Pacific,Product A (Premium),25-34,3
+56,North America,Product C (Eco),18-24,4
+57,LATAM,Product A (Premium),18-24,4
+58,Europe,Product C (Eco),18-24,1
+59,LATAM,Product A (Premium),25-34,1
+60,Europe,Product A (Premium),35-50,4
+61,Europe,Product A (Premium),25-34,2
+62,LATAM,Product B (Budget),35-50,3
+63,Middle East,Product B (Budget),25-34,1
+64,Europe,Product A (Premium),25-34,2
+65,Europe,Product C (Eco),18-24,5
+66,LATAM,Product B (Budget),50+,1
+67,Europe,Product B (Budget),50+,2
+68,Europe,Product B (Budget),35-50,2
+69,LATAM,Product B (Budget),50+,3
+70,LATAM,Product B (Budget),25-34,3
+71,North America,Product A (Premium),25-34,5
+72,Middle East,Product A (Premium),18-24,2
+73,Middle East,Product C (Eco),18-24,2
+74,Europe,Undecided,50+,3
+75,Middle East,Product B (Budget),35-50,1
+76,Europe,Product A (Premium),50+,1
+77,North America,Product B (Budget),50+,4
+78,LATAM,Product B (Budget),50+,3
+79,LATAM,Product A (Premium),50+,4
+80,LATAM,Product A (Premium),25-34,3
+81,Middle East,Product C (Eco),35-50,5
+82,North America,Product B (Budget),25-34,2
+83,Middle East,Product A (Premium),35-50,5
+84,Middle East,Product A (Premium),18-24,3
+85,North America,Product A (Premium),50+,2
+86,North America,Product B (Budget),25-34,1
+87,North America,Product A (Premium),35-50,1
+88,North America,Product A (Premium),18-24,4
+89,LATAM,Product C (Eco),18-24,3
+90,Asia-Pacific,Product A (Premium),50+,3
+91,Asia-Pacific,Product B (Budget),35-50,1
+92,North America,Product A (Premium),25-34,5
+93,Asia-Pacific,Product A (Premium),50+,2
+94,Asia-Pacific,Product A (Premium),25-34,5
+95,North America,Product C (Eco),18-24,5
+96,Asia-Pacific,Product C (Eco),25-34,1
+97,Middle East,Product C (Eco),25-34,1
+98,Europe,Product B (Budget),50+,1
+99,Europe,Product B (Budget),25-34,4
+100,North America,Product A (Premium),50+,5
+101,LATAM,Product A (Premium),18-24,3
+102,North America,Product C (Eco),50+,2
+103,LATAM,Product A (Premium),50+,4
+104,Europe,Product A (Premium),35-50,3
+105,North America,Product A (Premium),25-34,5
+106,Middle East,Product A (Premium),18-24,1
+107,Asia-Pacific,Product A (Premium),50+,5
+108,LATAM,Product B (Budget),18-24,2
+109,Asia-Pacific,Product B (Budget),35-50,4
+110,Asia-Pacific,Product C (Eco),25-34,4
+111,North America,Product C (Eco),50+,2
+112,Asia-Pacific,Product B (Budget),25-34,3
+113,Middle East,Product A (Premium),35-50,3
+114,Asia-Pacific,Product B (Budget),35-50,4
+115,North America,Product B (Budget),18-24,4
+116,Middle East,Product A (Premium),50+,1
+117,Europe,Product B (Budget),18-24,3
+118,Asia-Pacific,Product B (Budget),35-50,2
+119,North America,Product B (Budget),25-34,3
+120,Europe,Product B (Budget),18-24,1
+121,Europe,Product A (Premium),18-24,4
+122,LATAM,Undecided,25-34,4
+123,Middle East,Product C (Eco),18-24,1
+124,Asia-Pacific,Product A (Premium),25-34,2
+125,North America,Product C (Eco),50+,4
+126,LATAM,Product B (Budget),25-34,5
+127,Middle East,Product C (Eco),50+,4
+128,LATAM,Product C (Eco),25-34,5
+129,Middle East,Product B (Budget),35-50,1
+130,Middle East,Product A (Premium),35-50,1
+131,Asia-Pacific,Product A (Premium),50+,4
+132,Middle East,Product B (Budget),50+,3
+133,LATAM,Product B (Budget),35-50,5
+134,Middle East,Product A (Premium),50+,2
+135,Asia-Pacific,Product A (Premium),25-34,4
+136,Asia-Pacific,Product C (Eco),25-34,2
+137,LATAM,Undecided,35-50,4
+138,Europe,Product B (Budget),18-24,3
+139,Europe,Product A (Premium),25-34,3
+140,Middle East,Product A (Premium),50+,3
+141,North America,Product A (Premium),18-24,3
+142,Middle East,Undecided,18-24,1
+143,LATAM,Product A (Premium),25-34,1
+144,LATAM,Product B (Budget),25-34,5
+145,LATAM,Product A (Premium),18-24,2
+146,LATAM,Product B (Budget),18-24,4
+147,LATAM,Product B (Budget),35-50,4
+148,Asia-Pacific,Product C (Eco),50+,1
+149,Europe,Product A (Premium),35-50,4
+150,LATAM,Product A (Premium),25-34,1
+151,North America,Product A (Premium),35-50,5
+152,North America,Undecided,35-50,2
+153,North America,Product C (Eco),35-50,5
+154,North America,Product B (Budget),35-50,3
+155,Asia-Pacific,Product B (Budget),50+,3
+156,North America,Product B (Budget),50+,3
+157,LATAM,Product A (Premium),18-24,5
+158,Middle East,Undecided,25-34,4
+159,North America,Product B (Budget),35-50,2
+160,Asia-Pacific,Product B (Budget),18-24,3
+161,Asia-Pacific,Product B (Budget),18-24,3
+162,North America,Product A (Premium),18-24,3
+163,Middle East,Product A (Premium),50+,2
+164,North America,Product C (Eco),35-50,3
+165,Asia-Pacific,Product A (Premium),35-50,2
+166,Europe,Product B (Budget),25-34,3
+167,LATAM,Product A (Premium),35-50,5
+168,Asia-Pacific,Product B (Budget),35-50,5
+169,North America,Product A (Premium),18-24,2
+170,LATAM,Product B (Budget),25-34,5
+171,North America,Product C (Eco),35-50,2
+172,North America,Product A (Premium),50+,5
+173,Europe,Product B (Budget),35-50,5
+174,LATAM,Product B (Budget),18-24,2
+175,LATAM,Product B (Budget),50+,4
+176,Europe,Undecided,18-24,5
+177,Asia-Pacific,Product C (Eco),35-50,3
+178,North America,Product A (Premium),50+,4
+179,Middle East,Product A (Premium),25-34,2
+180,North America,Product A (Premium),25-34,4
+181,North America,Product B (Budget),50+,1
+182,Asia-Pacific,Product A (Premium),50+,1
+183,North America,Product B (Budget),18-24,5
+184,Europe,Product B (Budget),50+,5
+185,Europe,Product B (Budget),18-24,3
+186,LATAM,Product C (Eco),35-50,4
+187,Middle East,Product A (Premium),18-24,1
+188,North America,Product A (Premium),50+,5
+189,North America,Product C (Eco),50+,4
+190,Asia-Pacific,Product B (Budget),35-50,5
+191,Europe,Product B (Budget),50+,5
+192,Middle East,Product B (Budget),50+,1
+193,LATAM,Product A (Premium),25-34,1
+194,Europe,Product C (Eco),25-34,5
+195,LATAM,Product C (Eco),35-50,2
+196,Asia-Pacific,Product B (Budget),18-24,5
+197,Asia-Pacific,Product A (Premium),25-34,5
+198,North America,Product B (Budget),18-24,3
+199,Middle East,Product B (Budget),50+,3
+200,LATAM,Product A (Premium),25-34,3
+201,Europe,Undecided,35-50,2
+202,Asia-Pacific,Product A (Premium),35-50,2
+203,North America,Undecided,35-50,5
+204,North America,Product B (Budget),25-34,3
+205,LATAM,Product A (Premium),18-24,2
+206,Asia-Pacific,Product B (Budget),50+,1
+207,Middle East,Product C (Eco),18-24,5
+208,Asia-Pacific,Product C (Eco),18-24,4
+209,LATAM,Product C (Eco),50+,5
+210,LATAM,Product B (Budget),50+,4
+211,Asia-Pacific,Product B (Budget),25-34,3
+212,LATAM,Product C (Eco),25-34,4
+213,Asia-Pacific,Product A (Premium),25-34,3
+214,Europe,Product B (Budget),25-34,1
+215,Asia-Pacific,Product A (Premium),25-34,4
+216,Asia-Pacific,Undecided,50+,5
+217,LATAM,Undecided,18-24,3
+218,LATAM,Product A (Premium),25-34,5
+219,North America,Product C (Eco),25-34,2
+220,North America,Undecided,18-24,3
+221,Europe,Product A (Premium),25-34,4
+222,North America,Product B (Budget),18-24,3
+223,Asia-Pacific,Undecided,18-24,5
+224,LATAM,Product A (Premium),50+,1
+225,North America,Product B (Budget),35-50,3
+226,North America,Product A (Premium),50+,4
+227,Europe,Undecided,35-50,2
+228,Europe,Undecided,35-50,1
+229,Asia-Pacific,Undecided,35-50,2
+230,LATAM,Product B (Budget),25-34,3
+231,Europe,Product C (Eco),50+,5
+232,North America,Product C (Eco),35-50,5
+233,LATAM,Product B (Budget),18-24,4
+234,LATAM,Product C (Eco),25-34,5
+235,North America,Product A (Premium),50+,1
+236,Europe,Product B (Budget),35-50,5
+237,North America,Product A (Premium),18-24,4
+238,LATAM,Product A (Premium),50+,3
+239,Middle East,Product A (Premium),50+,3
+240,Middle East,Product B (Budget),25-34,5
+241,Asia-Pacific,Product B (Budget),50+,2
+242,North America,Product C (Eco),25-34,3
+243,North America,Product A (Premium),35-50,5
+244,Asia-Pacific,Product B (Budget),25-34,4
+245,Asia-Pacific,Product B (Budget),18-24,5
+246,Asia-Pacific,Product C (Eco),25-34,3
+247,LATAM,Product B (Budget),18-24,4
+248,North America,Product B (Budget),25-34,5
+249,LATAM,Product C (Eco),50+,1
+250,Asia-Pacific,Product B (Budget),35-50,4
+251,North America,Product A (Premium),18-24,1
+252,LATAM,Product A (Premium),25-34,2
+253,LATAM,Product C (Eco),25-34,4
+254,Asia-Pacific,Product A (Premium),25-34,1
+255,North America,Product C (Eco),50+,3
+256,Asia-Pacific,Product B (Budget),50+,3
+257,North America,Undecided,18-24,2
+258,Middle East,Product C (Eco),18-24,4
+259,Europe,Undecided,50+,4
+260,Europe,Product B (Budget),18-24,4
+261,Europe,Product C (Eco),35-50,2
+262,Asia-Pacific,Product B (Budget),35-50,4
+263,Middle East,Product B (Budget),50+,3
+264,North America,Product B (Budget),18-24,1
+265,LATAM,Product C (Eco),25-34,3
+266,North America,Undecided,35-50,3
+267,LATAM,Product C (Eco),50+,1
+268,North America,Product B (Budget),18-24,3
+269,Middle East,Product B (Budget),50+,2
+270,LATAM,Product C (Eco),25-34,1
+271,Asia-Pacific,Product A (Premium),35-50,3
+272,North America,Product A (Premium),50+,5
+273,North America,Product B (Budget),50+,3
+274,LATAM,Product A (Premium),50+,2
+275,Asia-Pacific,Product A (Premium),25-34,4
+276,Asia-Pacific,Product A (Premium),50+,3
+277,Middle East,Product A (Premium),25-34,4
+278,Asia-Pacific,Product A (Premium),25-34,5
+279,Asia-Pacific,Undecided,25-34,3
+280,Asia-Pacific,Product B (Budget),35-50,1
+281,Europe,Product B (Budget),35-50,4
+282,Middle East,Product B (Budget),50+,5
+283,North America,Product A (Premium),50+,1
+284,LATAM,Undecided,35-50,1
+285,North America,Product C (Eco),18-24,1
+286,Middle East,Product A (Premium),35-50,1
+287,LATAM,Product B (Budget),25-34,3
+288,Middle East,Product C (Eco),35-50,3
+289,Asia-Pacific,Undecided,25-34,3
+290,LATAM,Product B (Budget),50+,5
+291,Asia-Pacific,Product B (Budget),18-24,5
+292,North America,Product A (Premium),50+,5
+293,North America,Undecided,25-34,2
+294,LATAM,Product A (Premium),25-34,5
+295,LATAM,Undecided,25-34,3
+296,Middle East,Product B (Budget),18-24,3
+297,Middle East,Product B (Budget),35-50,2
+298,Asia-Pacific,Product B (Budget),50+,2
+299,LATAM,Product A (Premium),50+,5
+300,North America,Product A (Premium),35-50,4
+301,Middle East,Product A (Premium),50+,2
+302,Middle East,Product A (Premium),18-24,1
+303,North America,Product C (Eco),50+,3
+304,Middle East,Product B (Budget),25-34,1
+305,Asia-Pacific,Product A (Premium),35-50,3
+306,LATAM,Undecided,18-24,3
+307,North America,Product C (Eco),35-50,2
+308,LATAM,Undecided,18-24,2
+309,Middle East,Undecided,25-34,1
+310,Middle East,Product A (Premium),35-50,3
+311,North America,Product B (Budget),50+,1
+312,Asia-Pacific,Product C (Eco),18-24,4
+313,Europe,Product B (Budget),35-50,1
+314,North America,Product A (Premium),50+,5
+315,Europe,Product C (Eco),35-50,1
+316,Europe,Product A (Premium),35-50,5
+317,Asia-Pacific,Product A (Premium),35-50,5
+318,Europe,Product B (Budget),18-24,5
+319,Europe,Product B (Budget),50+,4
+320,Asia-Pacific,Product B (Budget),25-34,1
+321,Europe,Product A (Premium),18-24,1
+322,Europe,Product C (Eco),18-24,4
+323,Europe,Product A (Premium),18-24,3
+324,North America,Product A (Premium),25-34,2
+325,North America,Product C (Eco),50+,1
+326,North America,Undecided,50+,2
+327,Asia-Pacific,Product C (Eco),50+,4
+328,Middle East,Product C (Eco),35-50,3
+329,Europe,Product B (Budget),35-50,3
+330,Europe,Product B (Budget),35-50,3
+331,Asia-Pacific,Product A (Premium),25-34,4
+332,Europe,Product B (Budget),35-50,5
+333,North America,Product B (Budget),25-34,5
+334,Middle East,Product A (Premium),50+,2
+335,LATAM,Product C (Eco),35-50,5
+336,Europe,Product B (Budget),35-50,5
+337,North America,Product A (Premium),18-24,3
+338,LATAM,Product A (Premium),25-34,3
+339,Middle East,Product B (Budget),50+,2
+340,LATAM,Product A (Premium),18-24,1
+341,North America,Product C (Eco),18-24,2
+342,LATAM,Product B (Budget),50+,2
+343,Asia-Pacific,Product B (Budget),18-24,4
+344,LATAM,Product B (Budget),25-34,4
+345,Europe,Product C (Eco),25-34,2
+346,Europe,Product B (Budget),35-50,2
+347,Asia-Pacific,Product B (Budget),18-24,2
+348,North America,Product B (Budget),35-50,5
+349,Europe,Product A (Premium),18-24,4
+350,Middle East,Product C (Eco),25-34,2
+351,Europe,Product C (Eco),25-34,3
+352,Europe,Product B (Budget),25-34,3
+353,North America,Product C (Eco),18-24,5
+354,LATAM,Product C (Eco),25-34,5
+355,Europe,Product C (Eco),18-24,1
+356,Asia-Pacific,Product C (Eco),35-50,1
+357,LATAM,Product B (Budget),18-24,1
+358,Middle East,Product B (Budget),35-50,5
+359,North America,Product B (Budget),18-24,5
+360,Middle East,Product C (Eco),35-50,5
+361,LATAM,Product A (Premium),25-34,3
+362,LATAM,Product C (Eco),35-50,5
+363,LATAM,Product C (Eco),25-34,3
+364,Middle East,Product A (Premium),25-34,1
+365,LATAM,Product C (Eco),35-50,1
+366,Middle East,Product A (Premium),18-24,1
+367,LATAM,Product B (Budget),18-24,2
+368,Asia-Pacific,Product C (Eco),50+,2
+369,LATAM,Product A (Premium),18-24,4
+370,Middle East,Product C (Eco),50+,4
+371,Europe,Product C (Eco),18-24,4
+372,LATAM,Product B (Budget),18-24,2
+373,Europe,Product A (Premium),25-34,2
+374,Asia-Pacific,Product A (Premium),50+,4
+375,North America,Product B (Budget),18-24,4
+376,Asia-Pacific,Undecided,50+,5
+377,LATAM,Product B (Budget),25-34,4
+378,Europe,Product A (Premium),25-34,5
+379,Europe,Product B (Budget),50+,3
+380,Middle East,Product B (Budget),25-34,2
+381,Europe,Product C (Eco),35-50,4
+382,Middle East,Product A (Premium),35-50,2
+383,North America,Product C (Eco),25-34,2
+384,LATAM,Product B (Budget),35-50,2
+385,Middle East,Undecided,18-24,3
+386,North America,Product B (Budget),50+,1
+387,Europe,Product B (Budget),18-24,4
+388,Europe,Undecided,50+,1
+389,North America,Product A (Premium),25-34,1
+390,Europe,Undecided,18-24,1
+391,North America,Product B (Budget),25-34,2
+392,Middle East,Product A (Premium),25-34,5
+393,Middle East,Product B (Budget),50+,2
+394,North America,Product C (Eco),50+,2
+395,Middle East,Product A (Premium),50+,1
+396,Middle East,Product B (Budget),18-24,2
+397,Middle East,Product B (Budget),35-50,1
+398,Asia-Pacific,Product B (Budget),50+,5
+399,LATAM,Product A (Premium),50+,4
+400,Europe,Product C (Eco),18-24,1
+401,Asia-Pacific,Undecided,50+,5
+402,Middle East,Undecided,18-24,4
+403,North America,Product C (Eco),25-34,3
+404,Middle East,Product A (Premium),50+,1
+405,LATAM,Product C (Eco),50+,1
+406,Middle East,Product A (Premium),25-34,3
+407,North America,Product A (Premium),25-34,3
+408,LATAM,Product B (Budget),25-34,1
+409,Middle East,Product B (Budget),50+,3
+410,LATAM,Product C (Eco),35-50,2
+411,Europe,Product B (Budget),35-50,4
+412,Europe,Product B (Budget),35-50,4
+413,Middle East,Product A (Premium),50+,4
+414,LATAM,Undecided,25-34,2
+415,North America,Product B (Budget),50+,3
+416,Middle East,Product B (Budget),25-34,5
+417,Europe,Product A (Premium),50+,3
+418,Europe,Product C (Eco),50+,1
+419,Middle East,Product B (Budget),25-34,4
+420,LATAM,Product A (Premium),35-50,3
+421,Europe,Product A (Premium),25-34,5
+422,LATAM,Product B (Budget),18-24,1
+423,Europe,Product B (Budget),18-24,2
+424,Europe,Product A (Premium),25-34,2
+425,Asia-Pacific,Undecided,50+,5
+426,Europe,Product A (Premium),18-24,1
+427,North America,Product B (Budget),18-24,4
+428,Middle East,Undecided,50+,3
+429,Middle East,Product B (Budget),50+,1
+430,LATAM,Product B (Budget),35-50,2
+431,Europe,Product B (Budget),50+,5
+432,North America,Product A (Premium),25-34,5
+433,LATAM,Undecided,25-34,3
+434,Asia-Pacific,Product B (Budget),35-50,5
+435,LATAM,Product C (Eco),18-24,5
+436,LATAM,Product A (Premium),18-24,1
+437,Europe,Product A (Premium),50+,4
+438,Asia-Pacific,Product A (Premium),25-34,3
+439,LATAM,Product B (Budget),18-24,1
+440,North America,Product B (Budget),35-50,4
+441,North America,Product C (Eco),35-50,1
+442,Middle East,Product B (Budget),25-34,1
+443,Asia-Pacific,Undecided,35-50,5
+444,Asia-Pacific,Product A (Premium),35-50,4
+445,Middle East,Product C (Eco),25-34,3
+446,LATAM,Product C (Eco),50+,3
+447,Asia-Pacific,Product C (Eco),50+,4
+448,North America,Product C (Eco),35-50,5
+449,North America,Product C (Eco),50+,2
+450,Europe,Product B (Budget),50+,1
+451,Asia-Pacific,Product A (Premium),35-50,5
+452,LATAM,Product A (Premium),50+,4
+453,Middle East,Undecided,35-50,1
+454,Middle East,Product B (Budget),18-24,3
+455,LATAM,Product C (Eco),25-34,2
+456,Europe,Product B (Budget),25-34,3
+457,Middle East,Product A (Premium),50+,4
+458,Asia-Pacific,Product A (Premium),50+,1
+459,Europe,Product B (Budget),50+,4
+460,Asia-Pacific,Product B (Budget),25-34,1
+461,North America,Product A (Premium),18-24,5
+462,Europe,Product B (Budget),18-24,2
+463,Middle East,Product A (Premium),25-34,5
+464,Europe,Product B (Budget),18-24,5
+465,Europe,Product A (Premium),25-34,4
+466,Europe,Product C (Eco),18-24,2
+467,Europe,Product B (Budget),35-50,1
+468,Asia-Pacific,Product B (Budget),35-50,1
+469,North America,Product A (Premium),25-34,3
+470,LATAM,Product A (Premium),18-24,1
+471,Europe,Product B (Budget),50+,4
+472,Middle East,Product B (Budget),18-24,5
+473,Europe,Product B (Budget),35-50,5
+474,Middle East,Product A (Premium),35-50,5
+475,Asia-Pacific,Product B (Budget),18-24,2
+476,Middle East,Product C (Eco),18-24,1
+477,LATAM,Product C (Eco),50+,4
+478,North America,Product A (Premium),50+,2
+479,Middle East,Product B (Budget),18-24,3
+480,Middle East,Product A (Premium),18-24,4
+481,North America,Product A (Premium),18-24,4
+482,LATAM,Undecided,18-24,4
+483,Europe,Product A (Premium),25-34,5
+484,Middle East,Product B (Budget),18-24,4
+485,North America,Product B (Budget),50+,1
+486,Asia-Pacific,Product C (Eco),35-50,4
+487,North America,Product B (Budget),25-34,5
+488,Asia-Pacific,Product A (Premium),18-24,4
+489,LATAM,Product B (Budget),35-50,3
+490,Europe,Product B (Budget),25-34,3
+491,North America,Product A (Premium),35-50,5
+492,Middle East,Product B (Budget),18-24,1
+493,LATAM,Product A (Premium),18-24,1
+494,North America,Product A (Premium),50+,2
+495,Middle East,Product B (Budget),18-24,5
+496,North America,Product A (Premium),18-24,4
+497,Asia-Pacific,Product B (Budget),25-34,5
+498,North America,Product B (Budget),50+,2
+499,North America,Product C (Eco),25-34,5
+500,North America,Product A (Premium),35-50,5
+501,LATAM,Product A (Premium),18-24,2
+502,North America,Product A (Premium),35-50,1
+503,Middle East,Product B (Budget),25-34,4
+504,Asia-Pacific,Product C (Eco),18-24,2
+505,Asia-Pacific,Product A (Premium),18-24,3
+506,North America,Undecided,25-34,1
+507,LATAM,Product A (Premium),25-34,3
+508,LATAM,Product B (Budget),25-34,1
+509,Middle East,Product C (Eco),25-34,4
+510,North America,Product C (Eco),25-34,4
+511,Asia-Pacific,Product C (Eco),18-24,5
+512,LATAM,Product C (Eco),25-34,3
+513,North America,Product B (Budget),18-24,1
+514,LATAM,Product C (Eco),18-24,4
+515,LATAM,Product A (Premium),25-34,2
+516,Asia-Pacific,Product C (Eco),25-34,4
+517,Europe,Product B (Budget),50+,2
+518,Middle East,Product C (Eco),18-24,1
+519,Middle East,Product B (Budget),25-34,4
+520,Asia-Pacific,Product B (Budget),25-34,4
+521,LATAM,Product B (Budget),25-34,1
+522,North America,Product C (Eco),50+,4
+523,LATAM,Product A (Premium),50+,2
+524,Asia-Pacific,Product A (Premium),35-50,4
+525,Middle East,Product A (Premium),18-24,3
+526,LATAM,Product A (Premium),35-50,5
+527,Middle East,Product C (Eco),25-34,2
+528,North America,Product A (Premium),50+,3
+529,Middle East,Undecided,50+,1
+530,Middle East,Product B (Budget),35-50,2
+531,Europe,Product A (Premium),50+,5
+532,Europe,Product C (Eco),25-34,5
+533,Europe,Product B (Budget),50+,1
+534,Middle East,Product B (Budget),35-50,1
+535,Asia-Pacific,Product B (Budget),25-34,2
+536,Middle East,Product C (Eco),35-50,4
+537,Asia-Pacific,Product A (Premium),50+,1
+538,Asia-Pacific,Undecided,35-50,4
+539,Europe,Undecided,35-50,3
+540,LATAM,Product B (Budget),18-24,5
+541,North America,Product A (Premium),50+,4
+542,Europe,Product B (Budget),50+,5
+543,Europe,Product A (Premium),35-50,4
+544,LATAM,Product A (Premium),18-24,3
+545,North America,Product A (Premium),50+,1
+546,Middle East,Product B (Budget),25-34,3
+547,Middle East,Product C (Eco),35-50,1
+548,Europe,Product C (Eco),50+,1
+549,North America,Product C (Eco),25-34,5
+550,Europe,Product B (Budget),50+,3
+551,Asia-Pacific,Product B (Budget),25-34,4
+552,Europe,Product B (Budget),35-50,3
+553,Europe,Undecided,50+,5
+554,Middle East,Product A (Premium),50+,1
+555,Middle East,Product C (Eco),18-24,5
+556,Middle East,Product B (Budget),35-50,2
+557,Asia-Pacific,Product B (Budget),25-34,2
+558,Middle East,Product C (Eco),50+,4
+559,North America,Product B (Budget),50+,5
+560,LATAM,Product C (Eco),25-34,4
+561,North America,Undecided,35-50,4
+562,North America,Product B (Budget),18-24,2
+563,Middle East,Product A (Premium),18-24,4
+564,LATAM,Product B (Budget),50+,2
+565,LATAM,Undecided,25-34,1
+566,LATAM,Product A (Premium),50+,5
+567,Asia-Pacific,Product B (Budget),25-34,4
+568,Middle East,Product B (Budget),18-24,2
+569,LATAM,Product C (Eco),35-50,3
+570,Asia-Pacific,Product A (Premium),25-34,4
+571,Europe,Product C (Eco),18-24,1
+572,Europe,Undecided,50+,1
+573,Asia-Pacific,Product A (Premium),25-34,3
+574,Asia-Pacific,Product A (Premium),35-50,2
+575,Middle East,Undecided,50+,4
+576,Middle East,Product A (Premium),50+,2
+577,Europe,Product C (Eco),18-24,1
+578,LATAM,Product B (Budget),25-34,2
+579,Europe,Product A (Premium),50+,1
+580,LATAM,Product C (Eco),35-50,2
+581,LATAM,Product B (Budget),25-34,3
+582,Middle East,Product B (Budget),35-50,5
+583,North America,Product B (Budget),50+,3
+584,North America,Product B (Budget),35-50,3
+585,Asia-Pacific,Product A (Premium),18-24,5
+586,Middle East,Product B (Budget),35-50,5
+587,LATAM,Undecided,25-34,4
+588,North America,Product A (Premium),35-50,4
+589,LATAM,Product B (Budget),35-50,3
+590,North America,Product B (Budget),18-24,3
+591,North America,Product C (Eco),35-50,1
+592,North America,Product A (Premium),35-50,1
+593,Middle East,Undecided,50+,4
+594,Europe,Product B (Budget),50+,4
+595,LATAM,Product A (Premium),25-34,1
+596,Middle East,Product A (Premium),50+,1
+597,Middle East,Product A (Premium),50+,2
+598,Middle East,Product B (Budget),50+,2
+599,Middle East,Product B (Budget),50+,1
+600,Middle East,Product C (Eco),18-24,2
+601,Asia-Pacific,Product B (Budget),50+,5
+602,LATAM,Product A (Premium),18-24,4
+603,Middle East,Product B (Budget),18-24,4
+604,LATAM,Product C (Eco),50+,1
+605,Asia-Pacific,Product A (Premium),35-50,3
+606,Asia-Pacific,Product A (Premium),18-24,1
+607,LATAM,Product A (Premium),35-50,2
+608,North America,Product C (Eco),35-50,3
+609,Europe,Product B (Budget),50+,2
+610,North America,Product B (Budget),25-34,5
+611,North America,Product C (Eco),50+,2
+612,North America,Product C (Eco),25-34,5
+613,Middle East,Product B (Budget),25-34,5
+614,Asia-Pacific,Product C (Eco),50+,2
+615,North America,Product A (Premium),50+,2
+616,Asia-Pacific,Product A (Premium),25-34,5
+617,LATAM,Product A (Premium),50+,3
+618,Europe,Product A (Premium),25-34,5
+619,LATAM,Product B (Budget),35-50,4
+620,LATAM,Undecided,50+,5
+621,Middle East,Product A (Premium),35-50,3
+622,Europe,Product A (Premium),18-24,4
+623,LATAM,Product B (Budget),35-50,1
+624,LATAM,Undecided,35-50,1
+625,Europe,Product B (Budget),25-34,3
+626,Europe,Product B (Budget),35-50,5
+627,LATAM,Product A (Premium),50+,2
+628,Europe,Product A (Premium),25-34,3
+629,LATAM,Undecided,18-24,4
+630,LATAM,Undecided,50+,4
+631,Middle East,Product A (Premium),18-24,1
+632,North America,Undecided,35-50,4
+633,LATAM,Product B (Budget),50+,3
+634,Asia-Pacific,Product C (Eco),50+,4
+635,North America,Product B (Budget),18-24,3
+636,North America,Product B (Budget),50+,2
+637,North America,Product B (Budget),50+,1
+638,Middle East,Product B (Budget),50+,4
+639,LATAM,Product A (Premium),35-50,3
+640,Middle East,Product A (Premium),18-24,5
+641,LATAM,Product B (Budget),50+,1
+642,Middle East,Product C (Eco),25-34,2
+643,Middle East,Product A (Premium),25-34,3
+644,Asia-Pacific,Product B (Budget),25-34,2
+645,Middle East,Undecided,25-34,2
+646,Europe,Product A (Premium),35-50,4
+647,Asia-Pacific,Product B (Budget),50+,4
+648,Middle East,Product B (Budget),18-24,3
+649,North America,Product C (Eco),50+,5
+650,Europe,Product A (Premium),35-50,3
+651,Europe,Product B (Budget),25-34,5
+652,Europe,Product C (Eco),35-50,2
+653,Asia-Pacific,Undecided,50+,1
+654,Middle East,Product B (Budget),18-24,3
+655,Middle East,Product B (Budget),35-50,3
+656,North America,Product B (Budget),18-24,5
+657,North America,Product C (Eco),35-50,2
+658,Europe,Product B (Budget),18-24,2
+659,North America,Product A (Premium),18-24,5
+660,Asia-Pacific,Undecided,25-34,2
+661,Middle East,Product B (Budget),18-24,4
+662,Europe,Product B (Budget),25-34,1
+663,North America,Product A (Premium),50+,3
+664,Asia-Pacific,Product B (Budget),50+,1
+665,Asia-Pacific,Product B (Budget),25-34,3
+666,North America,Product B (Budget),25-34,4
+667,Middle East,Product A (Premium),35-50,2
+668,North America,Product B (Budget),35-50,5
+669,Europe,Undecided,35-50,4
+670,North America,Product A (Premium),50+,1
+671,Asia-Pacific,Undecided,35-50,5
+672,North America,Product B (Budget),18-24,2
+673,Middle East,Product C (Eco),18-24,4
+674,LATAM,Product C (Eco),35-50,5
+675,North America,Product B (Budget),18-24,4
+676,Middle East,Product C (Eco),50+,4
+677,Middle East,Product C (Eco),18-24,2
+678,Asia-Pacific,Product B (Budget),50+,3
+679,Middle East,Product B (Budget),25-34,5
+680,Middle East,Product B (Budget),25-34,2
+681,Middle East,Product C (Eco),25-34,4
+682,Middle East,Product C (Eco),25-34,2
+683,Europe,Product C (Eco),18-24,3
+684,Europe,Product B (Budget),35-50,5
+685,Asia-Pacific,Product C (Eco),18-24,3
+686,North America,Product A (Premium),50+,1
+687,Middle East,Product B (Budget),18-24,5
+688,North America,Product A (Premium),18-24,3
+689,North America,Product B (Budget),50+,4
+690,Asia-Pacific,Product B (Budget),25-34,5
+691,Middle East,Product B (Budget),25-34,5
+692,Middle East,Product B (Budget),25-34,2
+693,LATAM,Product B (Budget),35-50,4
+694,North America,Product B (Budget),50+,1
+695,North America,Product A (Premium),50+,3
+696,Europe,Product B (Budget),18-24,2
+697,LATAM,Product A (Premium),35-50,3
+698,Europe,Product A (Premium),25-34,1
+699,Europe,Product B (Budget),35-50,1
+700,Europe,Product B (Budget),50+,5
+701,Asia-Pacific,Product B (Budget),50+,1
+702,Asia-Pacific,Product B (Budget),18-24,3
+703,Europe,Product B (Budget),18-24,4
+704,LATAM,Product C (Eco),50+,4
+705,North America,Product B (Budget),25-34,5
+706,LATAM,Product B (Budget),25-34,3
+707,Middle East,Product A (Premium),35-50,3
+708,Asia-Pacific,Product B (Budget),50+,1
+709,North America,Product B (Budget),50+,3
+710,North America,Product B (Budget),25-34,2
+711,Middle East,Product B (Budget),25-34,1
+712,Middle East,Product B (Budget),50+,2
+713,Europe,Product B (Budget),18-24,5
+714,Asia-Pacific,Product C (Eco),50+,4
+715,Asia-Pacific,Product C (Eco),50+,5
+716,LATAM,Product C (Eco),25-34,4
+717,Europe,Undecided,25-34,5
+718,Europe,Product A (Premium),18-24,3
+719,Europe,Product A (Premium),18-24,2
+720,Europe,Product A (Premium),35-50,4
+721,Asia-Pacific,Product B (Budget),50+,1
+722,Asia-Pacific,Product C (Eco),25-34,2
+723,Europe,Product A (Premium),18-24,1
+724,LATAM,Undecided,35-50,2
+725,North America,Product A (Premium),35-50,2
+726,North America,Undecided,25-34,5
+727,LATAM,Product B (Budget),25-34,4
+728,Europe,Product A (Premium),35-50,4
+729,Asia-Pacific,Product B (Budget),18-24,2
+730,North America,Product A (Premium),35-50,3
+731,Middle East,Product A (Premium),50+,3
+732,Middle East,Product B (Budget),50+,1
+733,LATAM,Product C (Eco),25-34,1
+734,Europe,Product B (Budget),18-24,5
+735,North America,Product B (Budget),18-24,2
+736,Europe,Product B (Budget),50+,1
+737,North America,Product C (Eco),35-50,1
+738,LATAM,Product A (Premium),25-34,2
+739,LATAM,Product B (Budget),35-50,5
+740,Middle East,Product A (Premium),35-50,1
+741,Europe,Product A (Premium),35-50,5
+742,Middle East,Product B (Budget),18-24,4
+743,Europe,Product A (Premium),50+,5
+744,Middle East,Product B (Budget),18-24,3
+745,Asia-Pacific,Product C (Eco),50+,3
+746,Asia-Pacific,Product A (Premium),25-34,5
+747,Asia-Pacific,Product B (Budget),25-34,3
+748,Asia-Pacific,Product A (Premium),35-50,4
+749,North America,Undecided,50+,2
+750,Asia-Pacific,Product B (Budget),50+,3
+751,LATAM,Product C (Eco),50+,3
+752,LATAM,Product B (Budget),35-50,5
+753,North America,Product A (Premium),35-50,4
+754,Asia-Pacific,Product B (Budget),25-34,2
+755,Asia-Pacific,Undecided,18-24,5
+756,Asia-Pacific,Product B (Budget),50+,5
+757,Middle East,Product C (Eco),50+,4
+758,Europe,Product C (Eco),18-24,2
+759,Middle East,Product A (Premium),50+,4
+760,Europe,Product A (Premium),35-50,2
+761,Asia-Pacific,Product B (Budget),35-50,4
+762,Asia-Pacific,Product B (Budget),50+,5
+763,Middle East,Product C (Eco),35-50,5
+764,Middle East,Undecided,35-50,1
+765,Europe,Product B (Budget),50+,3
+766,LATAM,Product A (Premium),25-34,4
+767,Europe,Product C (Eco),18-24,1
+768,Middle East,Product A (Premium),35-50,3
+769,Middle East,Product C (Eco),25-34,4
+770,North America,Product B (Budget),35-50,2
+771,Middle East,Product B (Budget),35-50,3
+772,North America,Product A (Premium),18-24,5
+773,LATAM,Product B (Budget),35-50,1
+774,Europe,Product B (Budget),18-24,3
+775,Europe,Product B (Budget),18-24,3
+776,North America,Product A (Premium),18-24,5
+777,Europe,Product C (Eco),25-34,4
+778,Middle East,Product C (Eco),50+,2
+779,Asia-Pacific,Product A (Premium),25-34,5
+780,North America,Product A (Premium),50+,2
+781,Europe,Product A (Premium),50+,4
+782,North America,Product B (Budget),18-24,3
+783,North America,Product B (Budget),35-50,2
+784,Asia-Pacific,Product B (Budget),18-24,1
+785,Middle East,Product A (Premium),35-50,1
+786,North America,Product B (Budget),50+,5
+787,Europe,Product B (Budget),18-24,4
+788,LATAM,Product B (Budget),35-50,5
+789,North America,Undecided,25-34,5
+790,North America,Product A (Premium),35-50,5
+791,Asia-Pacific,Product B (Budget),18-24,1
+792,Middle East,Product B (Budget),25-34,1
+793,LATAM,Product B (Budget),35-50,5
+794,Europe,Product C (Eco),35-50,1
+795,LATAM,Product B (Budget),35-50,4
+796,Europe,Undecided,35-50,5
+797,Middle East,Product A (Premium),35-50,1
+798,Europe,Product A (Premium),25-34,2
+799,Asia-Pacific,Product C (Eco),50+,5
+800,Asia-Pacific,Product B (Budget),25-34,5
+801,Asia-Pacific,Product A (Premium),25-34,4
+802,Asia-Pacific,Product A (Premium),25-34,3
+803,LATAM,Product A (Premium),50+,3
+804,Middle East,Product C (Eco),18-24,4
+805,Europe,Product A (Premium),50+,4
+806,Europe,Product B (Budget),25-34,4
+807,Asia-Pacific,Product A (Premium),35-50,3
+808,Asia-Pacific,Product B (Budget),35-50,4
+809,North America,Product A (Premium),25-34,1
+810,Middle East,Product B (Budget),35-50,5
+811,LATAM,Product A (Premium),25-34,5
+812,Europe,Product C (Eco),35-50,2
+813,North America,Product A (Premium),50+,2
+814,North America,Product B (Budget),18-24,5
+815,Europe,Product C (Eco),18-24,1
+816,LATAM,Product B (Budget),50+,3
+817,North America,Product B (Budget),50+,3
+818,North America,Product B (Budget),25-34,1
+819,Middle East,Product B (Budget),25-34,3
+820,LATAM,Product B (Budget),25-34,4
+821,North America,Undecided,35-50,5
+822,LATAM,Product B (Budget),25-34,5
+823,Europe,Product B (Budget),50+,1
+824,Asia-Pacific,Product C (Eco),18-24,3
+825,North America,Product B (Budget),35-50,2
+826,Middle East,Product A (Premium),25-34,2
+827,Europe,Product B (Budget),35-50,3
+828,LATAM,Undecided,35-50,2
+829,Europe,Product A (Premium),25-34,1
+830,North America,Product B (Budget),35-50,1
+831,LATAM,Product A (Premium),18-24,3
+832,Asia-Pacific,Product B (Budget),50+,2
+833,Europe,Product A (Premium),50+,1
+834,North America,Product B (Budget),18-24,1
+835,Middle East,Product C (Eco),35-50,4
+836,LATAM,Product B (Budget),25-34,4
+837,Europe,Product B (Budget),35-50,1
+838,Europe,Product C (Eco),18-24,3
+839,Asia-Pacific,Undecided,35-50,5
+840,Asia-Pacific,Product A (Premium),50+,5
+841,Middle East,Product B (Budget),35-50,1
+842,Middle East,Product A (Premium),18-24,1
+843,North America,Undecided,50+,1
+844,North America,Undecided,35-50,3
+845,Middle East,Product B (Budget),35-50,4
+846,Middle East,Product C (Eco),50+,1
+847,LATAM,Product B (Budget),25-34,1
+848,Asia-Pacific,Product B (Budget),50+,2
+849,North America,Product A (Premium),25-34,3
+850,Asia-Pacific,Product C (Eco),18-24,1
+851,Asia-Pacific,Product A (Premium),18-24,2
+852,Middle East,Product C (Eco),50+,5
+853,LATAM,Product C (Eco),50+,1
+854,Europe,Product C (Eco),18-24,1
+855,LATAM,Product A (Premium),25-34,2
+856,LATAM,Product B (Budget),18-24,3
+857,Asia-Pacific,Product A (Premium),50+,1
+858,LATAM,Product B (Budget),18-24,5
+859,North America,Product A (Premium),50+,1
+860,Asia-Pacific,Undecided,50+,5
+861,North America,Product B (Budget),18-24,4
+862,Europe,Product B (Budget),25-34,4
+863,Asia-Pacific,Product B (Budget),35-50,5
+864,Europe,Product B (Budget),18-24,3
+865,Asia-Pacific,Product B (Budget),35-50,1
+866,Middle East,Product B (Budget),18-24,1
+867,LATAM,Undecided,35-50,4
+868,Middle East,Product B (Budget),25-34,5
+869,Europe,Undecided,25-34,1
+870,LATAM,Product C (Eco),18-24,1
+871,Asia-Pacific,Product A (Premium),50+,3
+872,LATAM,Undecided,35-50,2
+873,North America,Product A (Premium),50+,4
+874,LATAM,Product C (Eco),50+,4
+875,North America,Product B (Budget),50+,2
+876,LATAM,Product C (Eco),25-34,1
+877,North America,Product C (Eco),18-24,3
+878,Europe,Product C (Eco),18-24,3
+879,Middle East,Product C (Eco),25-34,4
+880,Asia-Pacific,Product B (Budget),25-34,3
+881,LATAM,Product A (Premium),18-24,2
+882,Middle East,Product B (Budget),50+,1
+883,Asia-Pacific,Product A (Premium),35-50,2
+884,Asia-Pacific,Product B (Budget),35-50,5
+885,North America,Product B (Budget),35-50,4
+886,Europe,Undecided,50+,3
+887,Europe,Product B (Budget),18-24,5
+888,Middle East,Product C (Eco),25-34,3
+889,Europe,Product A (Premium),18-24,1
+890,LATAM,Product C (Eco),50+,1
+891,Europe,Undecided,25-34,1
+892,Middle East,Product B (Budget),50+,3
+893,Europe,Product B (Budget),35-50,5
+894,LATAM,Product C (Eco),35-50,1
+895,North America,Product A (Premium),50+,5
+896,Middle East,Product B (Budget),25-34,3
+897,North America,Product B (Budget),25-34,5
+898,North America,Product A (Premium),18-24,3
+899,North America,Product B (Budget),35-50,3
+900,Asia-Pacific,Product A (Premium),18-24,4
+901,Asia-Pacific,Product A (Premium),18-24,3
+902,North America,Product A (Premium),50+,3
+903,Middle East,Undecided,50+,2
+904,LATAM,Product B (Budget),18-24,1
+905,LATAM,Undecided,35-50,4
+906,Europe,Product B (Budget),50+,4
+907,Middle East,Product B (Budget),18-24,4
+908,Asia-Pacific,Product B (Budget),18-24,2
+909,North America,Product B (Budget),18-24,3
+910,Europe,Product A (Premium),18-24,1
+911,LATAM,Product B (Budget),18-24,5
+912,Asia-Pacific,Product A (Premium),18-24,3
+913,Asia-Pacific,Product B (Budget),50+,2
+914,North America,Product B (Budget),35-50,3
+915,LATAM,Product A (Premium),18-24,3
+916,Middle East,Product A (Premium),25-34,2
+917,Asia-Pacific,Product C (Eco),50+,4
+918,North America,Product B (Budget),50+,4
+919,Middle East,Product A (Premium),18-24,1
+920,LATAM,Undecided,50+,1
+921,Asia-Pacific,Product A (Premium),18-24,4
+922,Middle East,Product B (Budget),35-50,5
+923,Middle East,Undecided,35-50,3
+924,Middle East,Product A (Premium),50+,5
+925,Asia-Pacific,Product A (Premium),50+,3
+926,Asia-Pacific,Product A (Premium),25-34,4
+927,Europe,Product B (Budget),50+,1
+928,LATAM,Product A (Premium),25-34,1
+929,North America,Product B (Budget),35-50,5
+930,Middle East,Product A (Premium),35-50,1
+931,Europe,Product B (Budget),18-24,4
+932,North America,Undecided,35-50,5
+933,Europe,Product C (Eco),25-34,3
+934,Asia-Pacific,Product B (Budget),50+,1
+935,Middle East,Product B (Budget),18-24,2
+936,North America,Product B (Budget),25-34,1
+937,North America,Product B (Budget),50+,3
+938,North America,Product B (Budget),18-24,5
+939,North America,Product A (Premium),35-50,3
+940,North America,Product C (Eco),25-34,2
+941,Europe,Product B (Budget),50+,4
+942,Middle East,Product A (Premium),18-24,1
+943,Asia-Pacific,Product B (Budget),18-24,5
+944,Asia-Pacific,Product B (Budget),35-50,4
+945,Asia-Pacific,Product C (Eco),50+,3
+946,Asia-Pacific,Product C (Eco),35-50,5
+947,Europe,Product C (Eco),35-50,4
+948,LATAM,Product A (Premium),50+,5
+949,Middle East,Product B (Budget),50+,2
+950,North America,Product B (Budget),50+,2
+951,LATAM,Product A (Premium),25-34,1
+952,Asia-Pacific,Product A (Premium),50+,1
+953,LATAM,Product C (Eco),18-24,2
+954,Middle East,Product A (Premium),35-50,5
+955,North America,Product B (Budget),25-34,2
+956,North America,Product A (Premium),50+,1
+957,Middle East,Product A (Premium),25-34,2
+958,Middle East,Product A (Premium),50+,2
+959,Asia-Pacific,Undecided,25-34,5
+960,North America,Product C (Eco),35-50,4
+961,LATAM,Undecided,35-50,1
+962,Europe,Product B (Budget),18-24,5
+963,Europe,Product A (Premium),18-24,2
+964,Middle East,Product B (Budget),50+,2
+965,Asia-Pacific,Product B (Budget),35-50,4
+966,Europe,Product C (Eco),25-34,1
+967,North America,Product A (Premium),25-34,1
+968,Middle East,Product B (Budget),25-34,3
+969,LATAM,Product A (Premium),18-24,1
+970,Middle East,Product B (Budget),25-34,4
+971,LATAM,Product C (Eco),18-24,3
+972,Middle East,Product B (Budget),18-24,3
+973,Middle East,Product B (Budget),50+,2
+974,Middle East,Product B (Budget),25-34,2
+975,LATAM,Product B (Budget),25-34,1
+976,LATAM,Product C (Eco),35-50,3
+977,Middle East,Product C (Eco),50+,2
+978,Europe,Undecided,35-50,4
+979,Asia-Pacific,Product C (Eco),50+,2
+980,Asia-Pacific,Product B (Budget),25-34,2
+981,Asia-Pacific,Product B (Budget),18-24,3
+982,LATAM,Product B (Budget),18-24,3
+983,LATAM,Product A (Premium),18-24,5
+984,Europe,Product C (Eco),18-24,4
+985,Asia-Pacific,Product A (Premium),18-24,3
+986,Asia-Pacific,Undecided,35-50,1
+987,Middle East,Product B (Budget),50+,4
+988,LATAM,Product B (Budget),25-34,4
+989,Asia-Pacific,Product B (Budget),35-50,3
+990,Europe,Product C (Eco),50+,4
+991,Europe,Product B (Budget),18-24,3
+992,Asia-Pacific,Product B (Budget),50+,2
+993,LATAM,Product A (Premium),50+,5
+994,Europe,Product B (Budget),18-24,2
+995,Middle East,Product A (Premium),18-24,3
+996,Europe,Product C (Eco),18-24,3
+997,North America,Product B (Budget),25-34,2
+998,North America,Product B (Budget),18-24,1
+999,LATAM,Product A (Premium),25-34,1
+1000,Asia-Pacific,Product A (Premium),18-24,1
