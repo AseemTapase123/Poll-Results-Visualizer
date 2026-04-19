@@ -43,9 +43,15 @@ Poll-Results-Visualizer/
    ```bash
    git clone [https://github.com/AseemTapase123/Poll-Results-Visualizer.git](https://github.com/AseemTapase123/Poll-Results-Visualizer.git)
 
-cd Poll-Results-Visualizer
-.\venv\Scripts\activate
+2. **Navigate and Activate Environment:**
+   ```bash
+   cd Poll-Results-Visualizer
+   .\venv\Scripts\activate
 
-pip install -r requirements.txt
+3. **Install Dependencies:**
+   ```bash
+   pip install -r requirements.txt
 
-streamlit run app.py
+3. **Launch Dashboard::**
+   ```bash
+   streamlit run app.py
